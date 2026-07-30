@@ -128,3 +128,26 @@ python benchmark/benchmark_int8.py
 ## License
 
 MIT License
+
+## Project Workflow
+
+![Project Workflow](assets/project_workflow.png)
+
+---
+
+## FP32 Object Detection
+
+![FP32 Detection](assets/fp32_detection.png)
+
+---
+
+## Benchmark Results
+
+![Benchmark Results](assets/benchmark_results.png)
+
+---
+
+## INT8 Object Detection
+
+![INT8 Detection](assets/int8_detection.png)
+
